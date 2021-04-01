@@ -1,5 +1,8 @@
 body{
     text-align:center;
+    background-image: url(https://wallpaperaccess.com/full/1894845.jpg);
+    background-position: top;
+    background-size: 100%;
     background-color: #FFBBE0;
 }
 
@@ -11,7 +14,7 @@ body{
 }
 
 .thumb{
-    color:#FF0C20;
+    color:white;
 }
 
 #filmesFavoritos {
@@ -19,16 +22,17 @@ body{
 }
 
 .button {
-    background-color:#EF0501; /* Green */
-    margin: 10px;
+    background-color:white; /* Green */
+    margin: 5%;
     border: none;
     border-radius: 12px;
-    color: white;
+    color: pink ;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    font-weight: bolder;
     width:70%;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
