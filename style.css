@@ -1,9 +1,15 @@
 body{
     text-align:center;
     background-image: url(https://wallpaperaccess.com/full/1894845.jpg);
-    background-position: top;
-    background-size: 100%;
+
+    background-size: 110%;
     background-color: #FFBBE0;
+    box-sizing: border-box;
+}
+@media (min-width: 728px) {
+    body{
+        background-size: auto;
+    } 
 }
 
 #wrapper { margin: 0 auto;}
