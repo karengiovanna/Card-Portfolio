@@ -34,3 +34,10 @@ function exibirConhecimentos(){
     conteudo.innerHTML =  projetos
 
 }
+
+function exibirInteresses(){
+    var conteudo = document.querySelector('#conteudo')
+    var projetos = "<h2>Front-end </h2> <h2>Back-end</h2> <a href='https://www.urionlinejudge.com.br/judge/pt/profile/260337'><h2>Programação Competitiva</h2></a> "
+    conteudo.innerHTML =  projetos
+
+}
