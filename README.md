@@ -6,4 +6,4 @@ Este projeto foi feito durante o evento Imersão Dev da Alura e teve como objeti
 
 ![image](https://user-images.githubusercontent.com/49700354/116583713-a3db4c00-a8e4-11eb-902e-42d1f88a519a.png)
 
-Acesse www.karengiovanna.github.io para visualizar o projeto
+Acesse https://karengiovanna.github.io/Card-Portfolio/ para visualizar o projeto
