@@ -16,7 +16,7 @@ function exibirLinks(){
 }
 function exibirProjetos(){
     var conteudo = document.querySelector('#conteudo')
-    var projetos = "<h2>Front-end </h2> <ol><li> 💰 Conversor de moedas</li><li> 🔢 Calculadora </li><li> 🔮 Mentalista</li><li> <a href='https://codepen.io/karengiovanna/pen/dyNpLob'>🎬 AluraFlix </a></li><li> 🏆 Tabela de classificação</li><li> 🃏 Supertrunfo </li><li> <a href='https://karengiovanna.github.io/'>🌐 Certificard</a></li></ol><h2>Back-end</h2> "
+    var projetos = "<h2>Front-end </h2> <ol><li><a href='https://karengiovanna.github.io/Barbearia-Alura/'>Barbearia Alura</li><li> <a href='https://codepen.io/karengiovanna/pen/dyNpLob'>🎬 AluraFlix </a></li><li> <a href='https://karengiovanna.github.io/'>🌐 Certificard</a></li></ol><h2>Back-end</h2> "
     conteudo.innerHTML =  projetos
 
 }
