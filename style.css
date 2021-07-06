@@ -36,6 +36,12 @@ header{
   border-radius: 10px;
 }
 
+a:link 
+{ 
+ text-decoration:none; 
+ color:black;
+} 
+
 div{
   padding: 15px;
   border-radius: 10px;
